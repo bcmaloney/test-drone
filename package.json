@@ -1,0 +1,10 @@
+{
+  "name": "test-ar-drone",
+  "description": "AR Drone Test",
+  "author": "Mandiant, Inc.",
+  "version": "v0.1.0",
+  "private": true,
+  "dependencies": {
+    "ar-drone": "0.3.2"
+  }
+}
